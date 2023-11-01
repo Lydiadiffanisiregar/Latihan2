@@ -6,7 +6,15 @@
 
 
 
-## 1. Program Menghitung Gaji Karyawan
+## 1. Program Menghitung Gaji Karyawan 
+
+<br>
 
 ![p](/gaji.PNG)
+
+## 2. Program Penjualan Barang
+
+<br>
+
+![p](/barang.PNG)
 
