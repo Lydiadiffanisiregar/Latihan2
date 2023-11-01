@@ -111,7 +111,7 @@ begin
   ETotal.Text := IntToStr(total);
 
 end;
-end;
+
 
 procedure TForm1.ETotalChange(Sender: TObject);
 begin
